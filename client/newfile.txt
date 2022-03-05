@@ -1,0 +1,268 @@
+Terminal No.
+SO/TB #: N/A
+No. of Guest: 1
+Sales Invoice #: 22040319535422
+Walk-In
+Cshr: AD-0001
+-------------------------------
+Qty     Description(s)    Price
+-------------------------------
+Chocolate
+     38 @45.00             1710.00
+Plain
+     8 @35.00             280.00
+Cheddar
+     1 @45.00             45.00
+Peanut Butter
+     2 @45.00             90.00
+Caramel
+     3 @45.00             135.00
+Strawberry
+     4 @50.00             200.00
+Blueberry
+     1 @50.00             50.00
+Mango Peach
+     2 @50.00             100.00
+Hazenut
+     5 @55.00             275.00
+Cream Cheese
+     2 @55.00             110.00
+----------66 item(s)------------
+   Sub Total              475
+   Discount               0.00
+-------------------------------
+Total                     2995
+
+Tendered:
+     CASH                 3000.00
+Change                    
+-------------------------------
+    VaTable Sales         2674.11
+    VAT 12.00%            320.89
+    VAT Exempt Sales      0.00
+    Zero Rated Sales      0.00
+    Less Vat              0.00
+-------------------------------
+
+      2022/03/05 12:49:15
+Name : ________________________
+Address : _____________________
+TIN : _________________________
+   ---***---***---***---***---  
+Terminal No.
+SO/TB #: N/A
+No. of Guest: 1
+Sales Invoice #: 22040319592622
+Walk-In
+Cshr: AD-0001
+-------------------------------
+Qty     Description(s)    Price
+-------------------------------
+French Butter Maple
+     3 @50.00             150.00
+French Butter Caramel
+     2 @55.00             110.00
+Banana Chocolate
+     11 @55.00             605.00
+Banana Peanut Butter
+     5 @55.00             275.00
+Chocolate Peanut Butter
+     7 @60.00             420.00
+Chocolate Caramel
+     4 @60.00             240.00
+Strawberry Peanut Butter
+     1 @65.00             65.00
+Blueberry Cream Cheese
+     2 @65.00             130.00
+Strawberry Cream Cheese
+     3 @65.00             195.00
+Mango Peach Cream Cheese
+     1 @65.00             65.00
+Oreo
+     2 @10.00             20.00
+Chocolate Banana Caramel
+     1 @70.00             70.00
+Chocolate Banana Hazelnut
+     1 @80.00             80.00
+Banana Slices
+     4 @10.00             40.00
+Smores
+     2 @75.00             150.00
+Ham Cheese Spread
+     3 @70.00             210.00
+Ham Cream Cheese
+     1 @70.00             70.00
+Chicken Ham Cream Cheese
+     1 @70.00             70.00
+Tuna Garlic
+     6 @50.00             300.00
+Tuna Garlic Cream Cheese
+     5 @65.00             325.00
+Hot Choco
+     1 @55.00             55.00
+Iced Choco
+     1 @65.00             65.00
+Bottled Water 25
+     14 @25.00             350.00
+Iced Coffee
+     6 @65.00             390.00
+Hot Coffee
+     3 @55.00             165.00
+Brownie Fudge Mallows
+     1 @65.00             65.00
+Brownie Fudge
+     1 @50.00             50.00
+----------92 item(s)------------
+   Sub Total              1545
+   Discount               0.00
+-------------------------------
+Total                     4730
+
+Tendered:
+     CASH                 4730.00
+Change                    
+-------------------------------
+    VaTable Sales         4223.21
+    VAT 12.00%            506.79
+    VAT Exempt Sales      0.00
+    Zero Rated Sales      0.00
+    Less Vat              0.00
+-------------------------------
+
+      2022/03/05 12:49:16
+Name : ________________________
+Address : _____________________
+TIN : _________________________
+   ---***---***---***---***---  
+Terminal No.
+SO/TB #: N/A
+No. of Guest: 1
+Sales Invoice #: 22040320302222
+Walk-In
+Cshr: AD-0001
+-------------------------------
+Qty     Description(s)    Price
+-------------------------------
+Hazenut
+     1 @55.00             55.00
+----------1 item(s)------------
+   Sub Total              55
+   Discount               9.82
+-------------------------------
+Total                     55
+
+Tendered:
+     CASH                 40.00
+Change                    
+-------------------------------
+    VaTable Sales         0.00
+    VAT 12.00%            0.00
+    VAT Exempt Sales      49.11
+    Zero Rated Sales      0.00
+    Less Vat              5.89
+-------------------------------
+
+      2022/03/05 12:49:17
+Name : Senior01
+Address : _____________________
+TIN : _________________________
+   ---***---***---***---***---  
+Terminal No.
+SO/TB #: N/A
+No. of Guest: 1
+Sales Invoice #: 22040320312722
+Walk-In
+Cshr: AD-0001
+-------------------------------
+Qty     Description(s)    Price
+-------------------------------
+Ham Cheese Spread
+     1 @70.00             70.00
+----------1 item(s)------------
+   Sub Total              70
+   Discount               12.50
+-------------------------------
+Total                     70
+
+Tendered:
+     CASH                 50.00
+Change                    
+-------------------------------
+    VaTable Sales         0.00
+    VAT 12.00%            0.00
+    VAT Exempt Sales      62.50
+    Zero Rated Sales      0.00
+    Less Vat              7.50
+-------------------------------
+
+      2022/03/05 12:49:17
+Name : Senior02
+Address : _____________________
+TIN : _________________________
+   ---***---***---***---***---  
+Terminal No.
+SO/TB #: N/A
+No. of Guest: 1
+Sales Invoice #: 22040320315622
+Walk-In
+Cshr: AD-0001
+-------------------------------
+Qty     Description(s)    Price
+-------------------------------
+French Butter Caramel
+     1 @55.00             55.00
+----------1 item(s)------------
+   Sub Total              55
+   Discount               9.82
+-------------------------------
+Total                     55
+
+Tendered:
+     CASH                 40.00
+Change                    
+-------------------------------
+    VaTable Sales         0.00
+    VAT 12.00%            0.00
+    VAT Exempt Sales      49.11
+    Zero Rated Sales      0.00
+    Less Vat              5.89
+-------------------------------
+
+      2022/03/05 12:49:18
+Name : Senior03
+Address : _____________________
+TIN : _________________________
+   ---***---***---***---***---  
+Terminal No.
+SO/TB #: N/A
+No. of Guest: 1
+Sales Invoice #: 22040320322422
+Walk-In
+Cshr: AD-0001
+-------------------------------
+Qty     Description(s)    Price
+-------------------------------
+Cheddar
+     1 @45.00             45.00
+----------1 item(s)------------
+   Sub Total              45
+   Discount               8.04
+-------------------------------
+Total                     45
+
+Tendered:
+     CASH                 40.00
+Change                    
+-------------------------------
+    VaTable Sales         0.00
+    VAT 12.00%            0.00
+    VAT Exempt Sales      40.18
+    Zero Rated Sales      0.00
+    Less Vat              4.82
+-------------------------------
+
+      2022/03/05 12:49:18
+Name : Senior04
+Address : _____________________
+TIN : _________________________
+   ---***---***---***---***---  

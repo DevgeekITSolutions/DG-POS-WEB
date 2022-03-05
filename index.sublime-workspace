@@ -1,0 +1,215 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/DESKTOP/Downloads/hrbuddy.sql",
+		"/C/Users/DESKTOP/Downloads/posrev (1).sql",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/Users/DESKTOP/Downloads/posrev.sql",
+		"/C/Users/DESKTOP/Documents/dumps/Dump20220219.sql",
+		"/C/Users/DESKTOP/Documents/dumps/Dump20220219 (1).sql",
+		"/C/Users/DESKTOP/Desktop/SOA034v2.pdf",
+		"/C/Users/DESKTOP/Downloads/200+feed+Hopper.skp",
+		"/C/Users/DESKTOP/Desktop/cng/multipurpose Dryer.skp",
+		"/C/Users/DESKTOP/Downloads/PENTEK_RP+Fineline+50S_Sliding_Door.skp",
+		"/D/FBW Website/20211017_famousbelgianwaffles_ba2d0193c6adcaa38643_20211017234348_archive/New Folder/dup-installer/dup-database__ba2d019-17234348.sql",
+		"/C/Users/DESKTOP/Documents/Innovention/user.config",
+		"/C/Users/DESKTOP/Source/Repos/iamjohnpalencia/POS-04-13-2020/.gitignore",
+		"/C/Users/DESKTOP/Desktop/KardiaChain Wallet Seed Words",
+		"/C/Users/DESKTOP/Desktop/1.sql",
+		"/C/Users/DESKTOP/Source/Repos/iamjohnpalencia/HRBuddy-Software/hris.sql",
+		"/D/DESKTOP/FREELANCE/CNG/Video Slide/Copied_Project 1_1/Project 1_1",
+		"/D/DESKTOP/FREELANCE/CNG/Video Slide/Copied_Project 1_1/Project 1_1-downgraded.prproj",
+		"/C/Users/DESKTOP/Documents/HRBuddy/user.config",
+		"/D/DESKTOP/FREELANCE/CNG/Video Slide/Copied_Project 1_1/Project 1_1 - Copy",
+		"/C/Users/DESKTOP/Desktop/certificate.crt",
+		"/C/Users/DESKTOP/Desktop/ca_bundle.crt",
+		"/C/Users/DESKTOP/Desktop/private.key",
+		"/C/Users/DESKTOP/Downloads/gpedit-enabler.bat",
+		"/C/Users/DESKTOP/Desktop/fortmatic_keystore_mainnet_0x056A7bB193002C85DBF2Eb256a7c831b4640dde7.json",
+		"/D/GetAccurateLocation-master/locationware/src/main/res/values/strings.xml",
+		"/D/GetAccurateLocation-master/locationware/src/main/AndroidManifest.xml",
+		"/C/Users/DESKTOP/AndroidStudioProjects/YUKIESS/locationware/src/main/java/meetmehdi/interfaces/LocationManagerInterface.java",
+		"/D/GetAccurateLocation-master/locationware/proguard-rules.pro",
+		"/D/GetAccurateLocation-master/locationware/build.gradle",
+		"/D/Android-SimpleLocation-master/Source/library/src/main/java/im/delight/android/location/SimpleLocation.java",
+		"/C/Users/DESKTOP/Desktop/index.html",
+		"/C/Users/DESKTOP/AppData/Local/Google/AndroidStudio4.1/log/idea.log",
+		"/C/Users/DESKTOP/Documents/Innovention/pos2021-03-19.sql",
+		"/C/Users/DESKTOP/AppData/Local/Android/Sdk/.knownPackages",
+		"/C/Users/DESKTOP/Documents/wp-config.php1",
+		"/C/Users/DESKTOP/Documents/wp-settings.php",
+		"/C/Users/DESKTOP/Downloads/famous20_wrdp7.sql",
+		"/C/Users/DESKTOP/Documents/wp-config.php",
+		"/C/Users/DESKTOP/Desktop/jkelpal@famousbelgianwaffles.com.coreftp",
+		"/D/Wondershare_DrFone_IOSUnlock/iPhone_4.0_32bit_10.3.4_14G61_Restore.ipsw.wafdl.config",
+		"/D/New folder/FILE_ID.DIZ"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE",
+			"ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=",
+			"admin_script_runner",
+			"admin_error_reports",
+			"utf8mb4_0900_ai_ci",
+			"/*!40101 SET character_set_client = @saved_cs_client */",
+			"utf8mb4_0900_ai_ci",
+			"collate",
+			"famous20_wrdp7"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
